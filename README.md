@@ -39,12 +39,12 @@ pip install requests
 
  ### How to Create a GitHub Personal Access Token (Classic)
 
-1)Go to GitHub Settings
+1) Go to GitHub Settings
 Visit: https://github.com/settings/tokens
 
-2)Click on "Generate new token (classic)"
+2) Click on "Generate new token (classic)"
 
-3)Provide a note and expiration date (e.g., "For API script use")
+3) Provide a note and expiration date (e.g., "For API script use")
 
 4)Select scopes/permissions
 Make sure to check:
@@ -60,12 +60,3 @@ Paste it into the terminal when the script asks for it. The token will be stored
 
 
 
-repo – Full control of private repositories
-
-delete_repo – To allow deleting repositories
-
-Click Generate token
-
-Copy the token shown ONLY ONCE — it won't be shown again!
-
-Paste it when the Python script asks for it. It will be saved in token.txt for future use.
