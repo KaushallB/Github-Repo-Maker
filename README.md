@@ -38,23 +38,27 @@ pip install requests
 ```
 
  ### How to Create a GitHub Personal Access Token (Classic)
-Follow these steps to generate a Personal Access Token (PAT):
 
-##Step-by-Step Instructions:
+1)Go to GitHub Settings
+Visit: https://github.com/settings/tokens
 
-Go to your GitHub account.
+2)Click on "Generate new token (classic)"
 
-Click your profile picture (top-right corner) → Settings
+3)Provide a note and expiration date (e.g., "For API script use")
 
-In the left sidebar, click Developer settings
+4)Select scopes/permissions
+Make sure to check:
 
-Click Personal access tokens → Tokens (classic)
+repo (Full control of private repositories)
 
-Click the green "Generate new token (classic)" button
+delete_repo (To delete repositories)
 
-Add a Note (e.g., Repo Maker Script) and expiration (e.g., 30 days or No expiration)
+5)Click "Generate token"
 
-Under Scopes, select:
+6)Copy the token shown ONCE
+Paste it into the terminal when the script asks for it. The token will be stored securely in token.txt for later use.
+
+
 
 repo – Full control of private repositories
 
