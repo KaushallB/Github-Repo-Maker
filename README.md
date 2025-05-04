@@ -46,7 +46,7 @@ Visit: https://github.com/settings/tokens
 3) Provide a note and expiration date (e.g., "For API script use")
 
 4) Select scopes/permissions
-   Make sure to check:
+Make sure to check:
 
    repo (Full control of private repositories)
 
