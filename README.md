@@ -50,7 +50,7 @@ Visit: https://github.com/settings/tokens
 
    repo (Full control of private repositories)
 
-  delete_repo (To delete repositories)
+    delete_repo (To delete repositories)
 
 5) Click "Generate token"
 
