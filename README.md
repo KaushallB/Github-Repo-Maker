@@ -45,17 +45,17 @@ Visit: https://github.com/settings/tokens
 
 3) Provide a note and expiration date (e.g., "For API script use")
 
-4)Select scopes/permissions
-Make sure to check:
+4) Select scopes/permissions
+         Make sure to check:
 
-repo (Full control of private repositories)
+         repo (Full control of private repositories)
 
-delete_repo (To delete repositories)
+         delete_repo (To delete repositories)
 
-5)Click "Generate token"
+5) Click "Generate token"
 
-6)Copy the token shown ONCE
-Paste it into the terminal when the script asks for it. The token will be stored securely in token.txt for later use.
+6) Copy the token shown ONCE
+   Paste it into the terminal when the script asks for it. The token will be stored securely in token.txt for later use.
 
 
 
