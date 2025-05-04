@@ -46,11 +46,11 @@ Visit: https://github.com/settings/tokens
 3) Provide a note and expiration date (e.g., "For API script use")
 
 4) Select scopes/permissions
-         Make sure to check:
+   Make sure to check:
 
-         repo (Full control of private repositories)
+   repo (Full control of private repositories)
 
-         delete_repo (To delete repositories)
+  delete_repo (To delete repositories)
 
 5) Click "Generate token"
 
