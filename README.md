@@ -1,6 +1,6 @@
 # GitHub Repo Maker using Python and Requests
 
-## 📘 Context
+## Context
 
 While learning API testing in Python during my internship, I came across the powerful requests library. I was fascinated by how we can send HTTP requests directly in Python — just like we do in tools like Postman. This gave me the idea to create a GitHub Repository Maker tool using the GitHub REST API.
 
@@ -11,7 +11,7 @@ This project allows you to:
 - Update the visibility of an existing repository
 - Delete the repository
 
-## 🚀 Features
+##  Features
 
 - Token is stored securely in a `token.txt` file for reuse.
 - Simple CLI interface for creating and managing repositories.
